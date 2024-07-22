@@ -11,8 +11,8 @@ This project is a Retrieval-Augmented Generation (RAG) application designed to p
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/american-history-rag.git
-cd american-history-rag
+git clone https://github.com/pinilDissanayaka/American-History-RAG-Application.git
+cd American-History-RAG-Application
 ```
 2. Install the required dependencies:
 ```
