@@ -8,3 +8,4 @@ langchain_google_genai
 unstructured
 langchain-chroma
 langchain_groq
+rank_bm25
